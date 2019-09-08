@@ -55,7 +55,7 @@ int main() {
 		int n=test;
 		out<<n<<"\n";
 		out.close();
-		system("M.exe");
+		system("solution.exe");
 		system(com1.c_str());
 		system(com2.c_str());
 		cout<<com1<<"\n"<<com2<<"\n"<<"congratulation onii-chan for successfully generated test "<<test<<"\n";

@@ -50,7 +50,7 @@ signed main() {
         out.open("input.in");
         out<<test<<"\n";
         out.close();
-        system("N.exe");
+        system("solution.exe");
         system(com1.c_str());
         system(com2.c_str());
         cout<<com1<<"\n"<<com2<<"\n"<<"congratulation onii-chan for successfully generated test "<<test<<"\n";
